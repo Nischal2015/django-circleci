@@ -30,7 +30,7 @@ django==3.2.16
     #   django-allauth
 django-allauth==0.49.0
     # via -r requirements/base.in
-django-environ==0.8.1
+django-environ==0.9.0
     # via -r requirements/base.in
 idna==3.3
     # via requests
