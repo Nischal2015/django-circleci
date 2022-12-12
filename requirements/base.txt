@@ -46,7 +46,7 @@ pyjwt[crypto]==2.3.0
     # via django-allauth
 pyparsing==3.0.7
     # via packaging
-python-slugify==6.1.1
+python-slugify==7.0.0
     # via -r requirements/base.in
 python3-openid==3.2.0
     # via django-allauth
