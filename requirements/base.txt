@@ -50,7 +50,7 @@ python-slugify==6.1.1
     # via -r requirements/base.in
 python3-openid==3.2.0
     # via django-allauth
-pytz==2021.3
+pytz==2022.7
     # via
     #   -r requirements/base.in
     #   django
